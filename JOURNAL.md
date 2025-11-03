@@ -11,3 +11,8 @@
 I figured out how to make the schematic. I got help from a friend to pick the parts out. I am pretty proud of my design: if its dumb and works, its not dumb!![image_2025-11-01_202301442](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--594b95dd2e649a476e24d44910f6fcc734777555/image_2025-11-01_202301442.png)
   
 
+## 11/3/2025 - Routed the PCB!!  
+
+LETS GOO! I finally finished routing the PCB! I connected all the stuff with the help of AI and some YouTube tutorials. I hope I did a fair job, don't be too hard on me!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--35fe369353d693736815f88fc61a98f06b4b8bd5/image.png)
+  
+
