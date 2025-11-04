@@ -6,4 +6,6 @@ Instead of getting a ready-made module, I decided to make my own for cheaper and
 <img width="405" height="404" alt="image" src="https://github.com/user-attachments/assets/21330fb8-ad48-4a2e-8365-b3ca44c325e5" />
 <img width="772" height="617" alt="image" src="https://github.com/user-attachments/assets/3d3b8448-43e1-4e7c-96f5-e6f5a6a1971b" />
 
+I got the price down to 57.60 usd, i can use a 9 usd coupon to order it for 48.60 usd
+
 <img width="1288" height="102" alt="image" src="https://github.com/user-attachments/assets/d24fc48e-1cb3-49ef-bd1f-5d87d36a34ef" />
