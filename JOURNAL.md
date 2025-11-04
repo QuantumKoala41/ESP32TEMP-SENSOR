@@ -16,3 +16,9 @@ I figured out how to make the schematic. I got help from a friend to pick the pa
 LETS GOO! I finally finished routing the PCB! I connected all the stuff with the help of AI and some YouTube tutorials. I hope I did a fair job, don't be too hard on me!![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--35fe369353d693736815f88fc61a98f06b4b8bd5/image.png)
   
 
+## 11/4/2025 - Side-quest  
+
+I swapped out the DHT22 for the DHT11 chip because I couldn't find any DHT22s in stock on JLC. This won't change the functionality of my project at all.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2NywicHVyIjoiYmxvYl9pZCJ9fQ==--8ac4b02206240b0cd56d8c63d39e72b2590581b6/image.png)
+  
+
