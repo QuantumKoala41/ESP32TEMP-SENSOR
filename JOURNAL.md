@@ -22,3 +22,9 @@ I swapped out the DHT22 for the DHT11 chip because I couldn't find any DHT22s in
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2NywicHVyIjoiYmxvYl9pZCJ9fQ==--8ac4b02206240b0cd56d8c63d39e72b2590581b6/image.png)
   
 
+## 11/9/2025 - Made a case  
+
+As per the request of the reviewer, I made a case for my project. I made it in Tinkercad because it was a fairly simple thing to make. I think it's pretty functional!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a37213d612df3d283175605b38f30c7a44940713/image.png)
+  
+
